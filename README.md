@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,cpp,java,react,php,html,css" />
+  </a>
+</p>
 
 <!--
 **prateek942/prateek942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
