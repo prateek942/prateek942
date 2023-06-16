@@ -21,8 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prateek942&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/" width="512px](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memedroid.com%2Fmemes%2Ftag%2Fdeveloper&psig=AOvVaw1tVGjtUNbt9Px4s-ldR6FU&ust=1687006908775000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCND1utLsx_8CFQAAAAAdAAAAABAQ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memedroid.com%2Fmemes%2Ftag%2Fdeveloper&psig=AOvVaw1tVGjtUNbt9Px4s-ldR6FU&ust=1687006908775000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCND1utLsx_8CFQAAAAAdAAAAABAQ"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prateek942&icon=0&color=0)](https://visitcount.itsvg.in)
