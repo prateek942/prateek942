@@ -59,21 +59,37 @@ A web application inspired by coding platforms, built to explore the development
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
-### Career-ops
+### [Career-ops](https://github.com/career-ops-hq/career-ops)
 
-Contributed to Career-ops, an open-source project focused on job-search workflows.
+Contributed to Career-ops, an open-source project focused on job-search automation and career workflows.
 
-🔧 **Contribution:** Improved the error message shown when `cv.md` cannot be found.
+**Merged Pull Requests:**
 
-The change makes troubleshooting more actionable by displaying the searched path and providing guidance on configuring the relevant data directories.
+1. 🚀 **[PR #7269 – GitHub Skill Proof Builder](https://github.com/career-ops-hq/career-ops/pull/7269)**
+   - Built a deterministic, zero-LLM tool to map job requirements and target skills to verifiable evidence in GitHub repositories.
+   - Added skill analysis using job descriptions, skills lists, and `cv.md`.
 
-- 🔀 [View merged PR #4239](https://github.com/career-ops-hq/career-ops/pull/4239)
+2. 🔄 **[PR #6750 – SEEK Scanner Pagination and Date Filtering](https://github.com/career-ops-hq/career-ops/pull/6750)**
+   - Restored `--daterange` and pagination support to the SEEK NZ job scanner.
+   - Improved job discovery and filtering capabilities.
 
-This contribution gave me experience working with an existing codebase, addressing an issue, and going through the code-review and merge process.
+3. 🌐 **[PR #6488 – SEEK NZ Keyword Scanner](https://github.com/career-ops-hq/career-ops/pull/6488)**
+   - Developed a zero-token keyword-based scanner for discovering jobs from New Zealand employers.
+   - Added shared local-scanner functionality and job discovery improvements.
 
----
+4. ⚡ **[PR #6186 – CV PDF Path Copy Shortcut](https://github.com/career-ops-hq/career-ops/pull/6186)**
+   - Added a `y` keyboard shortcut to copy the latest CV PDF's absolute path.
+   - Implemented clipboard functionality and automated tests.
+
+5. 🔧 **[PR #4239 – Improved Missing CV Error Messages](https://github.com/career-ops-hq/career-ops/pull/4239)**
+   - Improved error handling when `cv.md` cannot be found.
+   - Added searched-path details and actionable configuration guidance.
+
+🔗 **[View All My Merged Pull Requests](https://github.com/search?q=is%3Apr+author%3Aprateek942+is%3Amerged&type=pullrequests)**
+
+
 
 ## 🧰 Technical Interests
 
