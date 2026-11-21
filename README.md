@@ -127,10 +127,10 @@ My current learning and development areas include:
 
 ## 📫 Connect With Me
 
+- 🌐 [Portfolio](https://prateek942.github.io/Portfolio/#top)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prateek942/)
 - 🐦 [X / Twitter](https://x.com/__prateekpandey)
 - 📧 workwithprateekpandey@gmail.com
-
 ---
 
 ⭐ Feel free to explore my repositories and follow my development journey.
